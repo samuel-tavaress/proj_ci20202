@@ -1,19 +1,19 @@
-# Getting Started with Create React App
+# Projeto Github Actions
+Esse Projeto tem o objetivo de ensinar Continous Integration para a turma de Engenharia de Software II da Unijuazeiro 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Scripts Disponíveis 
 
 In the project directory, you can run:
 
+Na raiz do projeto você poderá executar:
 ### `npm start`
+Para executar a aplicação em modo de desenvolvimento.
+Acesse [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A página deverá recarregar a cada edição.\
+Você também poderá ver erros de `lint` no console.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+// TODO traduzir a partir daqui.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
