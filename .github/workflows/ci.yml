@@ -1,0 +1,12 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [master]
+
+jobs:
+  build: 
+    runs-on: ubuntu-20.04
+    steps:
+      - run: ls -la
+    
