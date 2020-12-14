@@ -28,7 +28,7 @@ jobs:
 
       - name: build project
         if: github.event_name == 'push'
-        run: npm run buil
+        run: npm run build
 
       - name: deploy to staging 
         if: github.event_name == 'push'   
